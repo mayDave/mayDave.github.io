@@ -16,10 +16,11 @@ timezone: Europe/Rome
 
 title: Davide Auletta # the main title
 
-tagline: Portfolio Website # it will display as the sub-title
+tagline: # it will display as the sub-title
+  In this portfolio website you'll find some of the GameDev related stuff that I've been working on lately
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  In this portfolio website you'll find some of the GameDev related stuff that I've been working on lately
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +30,7 @@ github:
   username: mayDave # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: mayDave_GameDev # change to your twitter username
 
 social:
   # Change to your full name.
@@ -76,7 +77,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://imgur.com/g8nJ0NY
+avatar: https://pbs.twimg.com/profile_images/1789318186082426880/Y5h-ezHj_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
