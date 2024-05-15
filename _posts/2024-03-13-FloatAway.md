@@ -8,11 +8,11 @@ image:
   path: /assets/img/postBg/FA_full.png
 ---
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-> Wait for the link
-{: .prompt-info }
-<!-- markdownlint-restore -->
+Working on my thesis gave me the chance to deepen my knowledge on a topic that I find very interesting: 
+the creation of content procedurally generated through algorithms. 
+At the same time this allowed me to develop the demo of a RTS video game: Float Away.
+The goal of the game is to extract resources from a floating island and then move on to the next one; 
+in the meanwhile enemy invasions require the player to defend the base by building defences and recruiting new units.
 
 >
 -- **Role**: jack of all trades  
@@ -23,13 +23,11 @@ Enzo Di Stefano - Music
 -- **Platforms**: PC  
 >
 
-### Description
-
-Working on my dissertation give me a the opportunity to deepen a topic that interests me a lot: 
-the creation of content procedurally generated through algorithms. 
-At the same time this allowed me to develop the demo of a video game: Float Away is a (RTS) real time strategy, 
-once you are in, the goal will be to extract resources from a floating island and then move on to the next one; 
-in the meanwhile you will have to defend the base from enemy invasions by building defences and recruiting new units.  
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+> Wait for the link ...
+{: .prompt-info }
+<!-- markdownlint-restore -->
 
 ### Features and stuff that I learned
 
@@ -50,9 +48,9 @@ in the meanwhile you will have to defend the base from enemy invasions by buildi
 ### Procedural Level Generation
 
 The [WFC](https://github.com/mxgmn/WaveFunctionCollapse/) algorithm's origins and evolution are discussed in my thesis as well as how I implemented it to generate maps in a deterministic way. 
-I utilized the **Tessera** tool, developed by BorisTheBrave, which allows us to use the (open-source) DeBroglie and Sylves C# libraries simultaneously, translating the typical WFC features into Unity.
-- **Debroglie** allows us to define our modules with proximity and frequency constraints, both local and global, as well as to perform backtracking in case of failed generation.
-- **Sylves** facilitates the creation, customization, and management of grids and graphs of any shape and size.
+I utilized the *Tessera* tool which allowed me to use the (open-source) DeBroglie and Sylves C# libraries simultaneously, translating the typical WFC features into Unity.
+- *Debroglie* allowed me to define modules with proximity and frequency constraints, both local and global, as well as to perform backtracking in case of failed generation.
+- *Sylves* facilitates the creation, customization, and management of grids and graphs of any shape and size.
 
 The generation can go on virtually for ever, provided that we subdivide it into chunks and we carefully design the modules and the constraint that we will be used.
 

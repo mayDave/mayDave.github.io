@@ -8,11 +8,7 @@ image:
   path: /assets/img/
 ---
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-> project link [name](link).
-{: .prompt-info }
-<!-- markdownlint-restore -->
+Description . . .
 
 >
 -- **Role**:  
@@ -22,7 +18,11 @@ image:
 -- **Platforms**:  
 >
 
-### Description
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+> project link [name](link).
+{: .prompt-info }
+<!-- markdownlint-restore -->
 
 ### Features and stuff that I learned
 

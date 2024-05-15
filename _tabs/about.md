@@ -5,8 +5,13 @@ order: 4
 ---
 
 Hi! I'm Davide, newly graduated in Computer Science and eager to learn.  
-I'm currently looking for a job in the game industry as a gameplay or tool developer, but I'm always open for new and interesting oppertunities. My other specialization interests include: game engine programming and computer graphics.
-I enjoy working with people that share similar passions and interest, said so, feel free to get in touch with me if I can be of some help.
+I'm currently looking for a job in the game industry as a gameplay or tool developer, 
+but I'm always open for new and interesting opportunities. 
+I love learning new things, growing and pouring my passion into making games.
+My degree has allowed me to specialize in software engineering; 
+now I am delving into some other topics that interest me, such as engine programming, mathematics and a variety of algorithms.
+I enjoy working in group projects with people that share similar passions and interests as me. 
+Feel free to get in touch with me for more informations. 
 
 ## Education
 
@@ -16,8 +21,8 @@ Corso di Laurea in Informatica e Tecnologie per la Produzione del Software
 1st cycle degree/Bachelor (3 years) Graduation date: 13/03/2024  
 
 > Technical College in **Electronics and Electrotechnics**  
-Using microcontrollers like Arduino and Raspberry during those years has led to  
-an increase in my interest in computer science and software development  
+Using microcontrollers like Arduino and Raspberry during those years has led to
+an increase in my interest in computer science and software development.
 
 ## Skills & Abilities
 

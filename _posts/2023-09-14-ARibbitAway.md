@@ -8,11 +8,12 @@ image:
   path: /assets/img/postBg/RA_map.png
 ---
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-> You can play the demo on [Itch](https://three-happy-frogs.itch.io/a-ribbit-away).
-{: .prompt-info }
-<!-- markdownlint-restore -->
+This was my first game related team project, made for an university exam, it was a good opportunity to improve our overall comunication and teamwork skills. 
+A Ribbit Away is a 2D platform, with pixel art graphics and a linear progression. 
+There are 3 distinct levels, each one is characterized by new mechanics that get progressively more complex. 
+From a design perspective, sound and graphics also change according to the character’s story progression.
+We also had the opportunity to let people try the demo at a local videogame related event;
+this allows us to get useful tips on how to make unique ideas more interesting through gameplay mechanics.
 
 >
 -- **Role**: Lead Programmer  
@@ -24,13 +25,11 @@ Martina Acucella - Level & Narrative Designer, Testing
 -- **Platforms**: PC  
 >
 
-### Description
-This was my first GameDev team project, made for an university exam, it was a good opportunity to improve our overall comunication and teamwork skills. 
-A Ribbit Away is a 2D platform, with pixel art graphics and a linear progression. 
-There are 3 distinct levels, each one is characterized by new mechanics progressively more complex. 
-From a design perspective, sound and graphics also change according to the  character’s story progression.
-We also had the opportunity to let people try the demo at a local videogame related event;
-this allow us to get useful tips on how to make unique ideas more interesting through gameplay mechanics.
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+> You can play the demo on [Itch](https://three-happy-frogs.itch.io/a-ribbit-away).
+{: .prompt-info }
+<!-- markdownlint-restore -->
 
 ### Features and stuff that I learned
 
