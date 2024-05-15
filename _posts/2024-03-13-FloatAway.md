@@ -10,7 +10,7 @@ image:
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-> Wait for the link [...]().
+> Wait for the link
 {: .prompt-info }
 <!-- markdownlint-restore -->
 
