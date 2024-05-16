@@ -18,8 +18,8 @@ this allows us to get useful tips on how to make unique ideas more interesting t
 >
 -- **Role**: Lead Programmer  
 -- **Team**: me +  
-Angela Mileti - PixelArt, Animations, Music, Narrative Designer
-Martina Acucella - Level & Narrative Designer, Testing  
+Angela Mileti - PixelArt, Animations, Music, Narrative Designer  
+Giuseppina Martina Acucella - Level & Narrative Designer, Testing  
 -- **Engine**: Unity  
 -- **Duration**: 2 months  
 -- **Platforms**: PC  
