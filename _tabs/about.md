@@ -12,7 +12,8 @@ My degree has allowed me to specialize in software engineering;
 now I am delving into some other topics that interest me, such as engine programming, mathematics and a variety of algorithms.
 I enjoy working in group projects with people that share similar passions and interests as me. 
 Feel free to get in touch with me for more informations.  
-E-mail: adavide8@gmail.com
+- [ ] Email: adavide8@gmail.com
+
 
 ## Education
 
