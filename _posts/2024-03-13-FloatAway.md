@@ -25,7 +25,8 @@ Enzo Di Stefano - Music
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-> Wait for the link ...
+> [**Link**](https://drive.google.com/file/d/1HBNlQwiffymqXKFlVybVgF_1GBvvo2x4/view) to download, extract and play the game.  
+(You can also watch the worst [**trailer**](https://drive.google.com/file/d/1bc-ve_KaULlAciZ-WdYSqDRTmaakKt-e/view?usp=sharing) ever made in human history)
 {: .prompt-info }
 <!-- markdownlint-restore -->
 
@@ -56,3 +57,10 @@ The generation can go on virtually for ever, provided that we subdivide it into 
 
 ![modules](/assets/img/content/FA_modules.png)
 ![generator](/assets/img/content/FA_generator.png)
+
+### Plans for the future
+
+Add a new rogue-like game mode and progression: after you have gathered all the resources on the current island you can go to the next one, 
+spend your points to unlock and upgrade units, structures and abilities. The map should be graph-shaped and randomly generated (just like in *Slay the Spire* or *Bad North*).
+
+![graphMap](/assets/img/content/graphMap.png){:  .w-75}  

@@ -16,7 +16,7 @@ An arcade racer is the opposite. It focuses and lets me do things I could never 
 
 ### Arcade
 For the arcade feeling I implemented a **Custom Physics Controller** that simulate a car using a sigle rigidbody and a raycast-based approach. 
-We apply a force to the position of each tire, the vector representing this force has three components (one for each axle): 
+We apply a force to the position of each tire, the vector representing this force has three components (one for each axis): 
 suspension, accelleration and steering.
 
 ![arcadeCar](/assets/img/gif/CarProto_Custom.gif)
@@ -25,7 +25,8 @@ suspension, accelleration and steering.
 Unity has a **Wheel Collider** that is a collider for grounded vehicles. 
 It has buit-in collision detection, wheel physics, and a slip-based tire friction model. 
 It can be used for objects other than wheels, but it is specifically designed for vehicles with wheels. 
-The steps to make a simulator as close as possible to reality are endless:
+The steps to make a simulator as close as possible to reality are endless, I just implemented some modular component such as: 
+tyres, engine, brakes, transmission, suspension, steering and basic aero dynamics.
 
 ![simCar](/assets/img/gif/CarProto_Sim.gif)
 
