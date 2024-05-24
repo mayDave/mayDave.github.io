@@ -15,7 +15,7 @@ Understanding the basics of how such a system works has led me to create two typ
 An arcade racer is the opposite. It focuses and lets me do things I could never do in the real world.”
 
 ### Arcade
-For the arcade feeling I implemented a **Custom Physics Controller** that simulate a car using a sigle rigidbody and a raycast-based approach. 
+For the arcade feeling I implemented a **Custom Physics Controller** that simulate a car using a single rigidbody and a raycast-based approach. 
 We apply a force to the position of each tire, the vector representing this force has three components (one for each axis): 
 suspension, accelleration and steering.
 

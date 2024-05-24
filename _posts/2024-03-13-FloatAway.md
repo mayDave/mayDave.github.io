@@ -26,9 +26,10 @@ Enzo Di Stefano - Music
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 > [**Link**](https://drive.google.com/file/d/1HBNlQwiffymqXKFlVybVgF_1GBvvo2x4/view) to download, extract and play the game.  
-(You can also watch the worst [**trailer**](https://drive.google.com/file/d/1bc-ve_KaULlAciZ-WdYSqDRTmaakKt-e/view?usp=sharing) ever made in human history)
 {: .prompt-info }
 <!-- markdownlint-restore -->
+
+![faGif](/assets/img/gif/faGif.gif)
 
 ### Features and stuff that I learned
 
