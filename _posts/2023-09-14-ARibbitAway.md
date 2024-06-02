@@ -3,7 +3,7 @@ layout: post
 title: A Ribbit Away
 date: 2023-09-24
 categories: Projects
-tags: platform 2D pixelart
+tags: platform pixelart 2D unity
 image:
   path: /assets/img/postBg/RA_map.png
 ---

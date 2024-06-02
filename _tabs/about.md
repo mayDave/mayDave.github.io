@@ -13,9 +13,14 @@ now I am delving into some other topics that interest me, such as engine program
 I enjoy working in group projects with people that share similar passions and interests as me. 
 Feel free to get in touch with me for more informations.  
 - [ ] Email: adavide8@gmail.com
+- [ ] Discord: mayDave
 
 
 ## Education
+
+> LM-18 - **Computer Science Master Programme**  
+Università degli Studi di MILANO - Dipartimento di Informatica  
+Currently enrolled for the accademic year 2024/25
 
 > L-31 - **Computer Science**  
 Università degli Studi di BARI - Dipartimento di Informatica  

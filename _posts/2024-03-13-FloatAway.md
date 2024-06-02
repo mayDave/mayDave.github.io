@@ -3,7 +3,7 @@ layout: post
 title: Float Away
 date: 2024-03-13
 categories: Projects
-tags: wfc rts 3D
+tags: wfc rts 3D unity
 image:
   path: /assets/img/postBg/FA_full.png
 ---
@@ -17,7 +17,7 @@ in the meanwhile enemy invasions require the player to defend the base by buildi
 >
 -- **Role**: jack of all trades  
 -- **Team**: me +  
-Enzo Di Stefano - Music  
+[Enzo Di Stefano](https://open.spotify.com/artist/2t5XRoy6Be2U3GIxG8Qcum) - Music  
 -- **Engine**: Unity  
 -- **Duration**: 3 months  
 -- **Platforms**: PC  
@@ -25,7 +25,7 @@ Enzo Di Stefano - Music
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-> [**Link**](https://drive.google.com/file/d/1HBNlQwiffymqXKFlVybVgF_1GBvvo2x4/view) to download, extract and play the game.  
+> Release in 2/3 months 
 {: .prompt-info }
 <!-- markdownlint-restore -->
 
