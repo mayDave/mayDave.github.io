@@ -17,7 +17,7 @@ in the meanwhile enemy invasions require the player to defend the base by buildi
 >
 -- **Role**: jack of all trades  
 -- **Team**: me +  
-[Enzo Di Stefano](https://open.spotify.com/artist/2t5XRoy6Be2U3GIxG8Qcum) - Music  
+[Enzo Di Stefano](https://enzodistefano.wordpress.com/) - Music  
 -- **Engine**: Unity  
 -- **Duration**: 3 months  
 -- **Platforms**: PC  
