@@ -20,12 +20,12 @@ in the meanwhile enemy invasions require the player to defend the base by buildi
 [Enzo Di Stefano](https://enzodistefano.wordpress.com/) - Music  
 -- **Engine**: Unity  
 -- **Duration**: 3 months  
--- **Platforms**: PC  
+-- **Platform**: PC  
 >
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-> Release in 2/3 months 
+> [Float Away](https://maydave.itch.io/float-away) itch.io page
 {: .prompt-info }
 <!-- markdownlint-restore -->
 
@@ -33,19 +33,19 @@ in the meanwhile enemy invasions require the player to defend the base by buildi
 
 ### Features and stuff that I learned
 
-- Base Building
-- Toggle Grid System
-- RTS Army Controls
-- Units Formation
-- Modular Wave Generator
+- Base building
+- Grid system
+- RTS army controls
+- Unit's formation behaviour
+- Modular wave generator
 - Finite State Machine
 - Pathfinding
-- Camera & Scene Management
-- Settings
+- Camera and scene management
+- Visual and audio settings
 - Basic save & load system
-- Animated UI using code
-- Vfx: Shaders, Particles and Post Effects
-- Dynamic Music  
+- Responsive UI using code
+- Vfx: shaders, particles and post effects
+- Dynamic music  
 
 ### Procedural Level Generation
 
@@ -59,9 +59,8 @@ The generation can go on virtually for ever, provided that we subdivide it into 
 ![modules](/assets/img/content/FA_modules.png)
 ![generator](/assets/img/content/FA_generator.png)
 
-### Plans for the future
+### Progression
 
-Add a new rogue-like game mode and progression: after you have gathered all the resources on the current island you can go to the next one, 
-spend your points to unlock and upgrade units, structures and abilities. The map should be graph-shaped and randomly generated (just like in *Slay the Spire* or *Bad North*).
+I added a rogue-like game mode and progression: after you have gathered all the resources on the current island you can go to the next one, spend your points to unlock and upgrade units, structures and abilities. The map should be graph-shaped and randomly generated (just like in *Slay the Spire* or *Bad North*). This part is far from being completed cause it needs a lot of balancing and playtesting. 
 
 ![graphMap](/assets/img/content/FA_graphMap.png){:  .w-75}  
