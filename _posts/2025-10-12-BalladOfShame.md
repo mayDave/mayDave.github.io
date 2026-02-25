@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Ballad of Shame"
+title: Ballad of Shame
 date: 2025-10-12
 categories: GameJam
-tags: rhythm, folklore, unity
+tags: rhythm folklore unity
 image:
   path: https://img.itch.zone/aW1nLzIzNjA3MzIyLmpwZw==/original/futpvN.jpg
 ---

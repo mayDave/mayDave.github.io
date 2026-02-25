@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Car Controller"
+title: Custom Car Controller
 date: 2024-04-27
 categories: Prototypes
 tags: vehicle 3D
