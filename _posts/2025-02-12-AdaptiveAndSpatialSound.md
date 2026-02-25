@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adaptive and Spatial Sound"
-date: 2023-10-21
+date: 2025-02-12
 categories: Prototypes
 tags: simulation 3D
 image:
