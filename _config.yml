@@ -17,10 +17,12 @@ timezone: Europe/Rome
 title: Davide Auletta # the main title
 
 tagline: # it will display as the sub-title
+  (Student)
+  
   In this portfolio website you'll find some of the GameDev related stuff that I've been working on lately
 
 description: >- # used by seo meta and the atom feed
-  In this portfolio website you'll find some of the GameDev related stuff that I've been working on lately
+  portfolio website game developer
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,8 +31,8 @@ url: "https://github.com/mayDave/mayDave.github.io"
 github:
   username: mayDave # change to your github username
 
-twitter:
-  username: mayDave_GameDev # change to your twitter username
+#twitter:
+#  username: mayDave_GameDev # change to your twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +41,7 @@ social:
   email: adavide8@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/mayDave_GameDev # change to your twitter homepage
+    #- https://twitter.com/mayDave_GameDev # change to your twitter homepage
     - https://github.com/mayDave # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

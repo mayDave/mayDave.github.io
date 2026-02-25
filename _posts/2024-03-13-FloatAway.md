@@ -64,4 +64,4 @@ The generation can go on virtually for ever, provided that we subdivide it into 
 Add a new rogue-like game mode and progression: after you have gathered all the resources on the current island you can go to the next one, 
 spend your points to unlock and upgrade units, structures and abilities. The map should be graph-shaped and randomly generated (just like in *Slay the Spire* or *Bad North*).
 
-![graphMap](/assets/img/content/graphMap.png){:  .w-75}  
+![graphMap](/assets/img/content/FA_graphMap.png){:  .w-75}  
