@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "- - -"
+title: "Ballad of Shame"
 date: 2025-10-12
 categories: GameJam
 tags: rhythm, folklore, unity
 image:
-  path: https://img.itch.zone/aW1hZ2UvMzk1MjY0Ni8yMzU3ODM2OS5qcGc=/794x1000/HLL2XI.jpg
+  path: https://img.itch.zone/aW1nLzIzNjA3MzIyLmpwZw==/original/futpvN.jpg
 ---
 
-**Ballad of Shame** is a rhythm-action game prototype, envisioned as a future dungeon crawler with roguelite elements (inspired by *Cript of the Necrodancer*). The core concept merges rhythmic combat and movement with Italian folklore, drawing inspiration from the tale of *Guerin Meschino* and the legends of the *Sibillini* mountains. The goal was to create a tight, satisfying gameplay loop where player actions are synced with the musical score to drive combat and progression.
+**Ballad of Shame** is a rhythm-action game prototype, envisioned as a future dungeon crawler with roguelite elements (inspired by *Cript of the Necrodancer*). The core concept merges rhythmic combat and movement with Italian folklore, drawing inspiration from the tale of *Guerin Meschino* and the legends of the *Sibillini* mountains. This prototype was made for (and thanks to) [ItaloCurso2025](https://itch.io/jam/italocurso-2025) game jam.  
 
 >
 -- **Team members**:  

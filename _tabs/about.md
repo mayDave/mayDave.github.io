@@ -29,11 +29,9 @@ an increase in my interest in computer science and software development.
 
 ## Unlocked Skills
 
-➖ C# and .NET
+➖ Mainly familiar with C# and C++
 
-➖ C++, C, Python, Java, Rust in the back pocket
-
-➖ Familiar with the Unity and Unreal framework
+➖ Unity and Unreal framework
 
 ➖ Version Control: Plastic SCM, Git
 
@@ -54,5 +52,7 @@ an increase in my interest in computer science and software development.
 ➖ Mobile development
 
 ➖ Multiplayer Infrastructure [in progress]
+
+➖ Bevy Engine and Rust [in progress] 
 
 ➖ Self made Game Engine [maybe someday, hopefully never]
