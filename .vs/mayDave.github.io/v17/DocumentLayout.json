@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\",
+  "WorkspaceRootPath": "C:\\GameDev stuff\\mayDave.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\2024-10-28-Mediapep.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-10-28-Mediapep.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_tabs\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_tabs\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\2024-03-13-FloatAway.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-03-13-FloatAway.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-03-13-FloatAway.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\-2024-05-09-CellularAutomata.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\-2024-05-09-CellularAutomata.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-12-02-PackageProtocol.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-12-02-PackageProtocol.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-10-12-BalladOfShame.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-10-12-BalladOfShame.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-02-12-AdaptiveAndSpatialSound.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025-02-12-AdaptiveAndSpatialSound.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-10-28-Mediapep.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-10-28-Mediapep.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-04-27-CusomCarController.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-04-27-CusomCarController.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\2023-09-14-ARibbitAway.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2023-09-14-ARibbitAway.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GameDev stuff\\mayDave.github.io\\_posts\\postTemplate.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\postTemplate.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,46 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "-2024-05-09-CellularAutomata.md",
-              "DocumentMoniker": "C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\-2024-05-09-CellularAutomata.md",
-              "RelativeDocumentMoniker": "_posts\\-2024-05-09-CellularAutomata.md",
-              "ToolTip": "C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\-2024-05-09-CellularAutomata.md",
-              "RelativeToolTip": "_posts\\-2024-05-09-CellularAutomata.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "DocumentIndex": 0,
+              "Title": "about.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_tabs\\about.md",
+              "RelativeDocumentMoniker": "_tabs\\about.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_tabs\\about.md",
+              "RelativeToolTip": "_tabs\\about.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADJAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-28T16:57:46.041Z"
+              "WhenOpened": "2026-04-23T09:49:46.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "2024-10-28-Mediapep.md",
-              "DocumentMoniker": "C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\2024-10-28-Mediapep.md",
-              "RelativeDocumentMoniker": "_posts\\2024-10-28-Mediapep.md",
-              "ToolTip": "C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\2024-10-28-Mediapep.md",
-              "RelativeToolTip": "_posts\\2024-10-28-Mediapep.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "2025-12-02-PackageProtocol.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-12-02-PackageProtocol.md",
+              "RelativeDocumentMoniker": "_posts\\2025-12-02-PackageProtocol.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-12-02-PackageProtocol.md",
+              "RelativeToolTip": "_posts\\2025-12-02-PackageProtocol.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-28T16:57:18.133Z",
+              "WhenOpened": "2026-04-23T09:41:20.833Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "2024-03-13-FloatAway.md",
-              "DocumentMoniker": "C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\2024-03-13-FloatAway.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-03-13-FloatAway.md",
               "RelativeDocumentMoniker": "_posts\\2024-03-13-FloatAway.md",
-              "ToolTip": "C:\\_GameDev stuff\\PortfolioWebsite\\mayDave.github.io\\_posts\\2024-03-13-FloatAway.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-03-13-FloatAway.md",
               "RelativeToolTip": "_posts\\2024-03-13-FloatAway.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-05-24T20:32:35.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2025-02-12-AdaptiveAndSpatialSound.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-02-12-AdaptiveAndSpatialSound.md",
+              "RelativeDocumentMoniker": "_posts\\2025-02-12-AdaptiveAndSpatialSound.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-02-12-AdaptiveAndSpatialSound.md",
+              "RelativeToolTip": "_posts\\2025-02-12-AdaptiveAndSpatialSound.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-23T09:37:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2025-10-12-BalladOfShame.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-10-12-BalladOfShame.md",
+              "RelativeDocumentMoniker": "_posts\\2025-10-12-BalladOfShame.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2025-10-12-BalladOfShame.md",
+              "RelativeToolTip": "_posts\\2025-10-12-BalladOfShame.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-23T09:37:54.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2024-10-28-Mediapep.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-10-28-Mediapep.md",
+              "RelativeDocumentMoniker": "_posts\\2024-10-28-Mediapep.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-10-28-Mediapep.md",
+              "RelativeToolTip": "_posts\\2024-10-28-Mediapep.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-28T16:57:18.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2024-04-27-CusomCarController.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-04-27-CusomCarController.md",
+              "RelativeDocumentMoniker": "_posts\\2024-04-27-CusomCarController.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2024-04-27-CusomCarController.md",
+              "RelativeToolTip": "_posts\\2024-04-27-CusomCarController.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-23T09:38:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2023-09-14-ARibbitAway.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2023-09-14-ARibbitAway.md",
+              "RelativeDocumentMoniker": "_posts\\2023-09-14-ARibbitAway.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\2023-09-14-ARibbitAway.md",
+              "RelativeToolTip": "_posts\\2023-09-14-ARibbitAway.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-23T09:38:06.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "postTemplate.md",
+              "DocumentMoniker": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\postTemplate.md",
+              "RelativeDocumentMoniker": "_posts\\postTemplate.md",
+              "ToolTip": "C:\\GameDev stuff\\mayDave.github.io\\_posts\\postTemplate.md",
+              "RelativeToolTip": "_posts\\postTemplate.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-23T09:38:17.884Z",
               "EditorCaption": ""
             }
           ]

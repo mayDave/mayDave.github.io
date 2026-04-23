@@ -4,9 +4,9 @@ icon: fas fa-info
 order: 4
 ---
 
-I'm Davide, a final-year Computer Science Master's student specializing in software engineering, and I'm looking for my next opportunity as a Gameplay or Tools Programmer. What drives me to make games is the chance to synthesize my passions (cinema and music) into a single, interactive medium. And I also don't hate coding, wich I found out it's pretty rare.  
+I'm Davide, a final-year Computer Science Master's student specializing in software engineering, and I'm looking for my next opportunity as a Gameplay or Tools Programmer. What drives me to make games is the chance to synthesize my passions (cinema and music) into a single, interactive medium. And I also don't hate coding, which I found out it's pretty rare.  
   
-My Master's degree has allowed me to dive deep into areas that directly fuel my game development interests. I've strategically chosen specialized courses like AI for Videogames, Real-Time Graphics Programming, Online Game Design and Networking, etc. This academic foundation, combined with my constant curiosity about this topics, ensures I approach game development challenges with both theoretical knowledge and practical thinking/skills.  
+My Master's degree has allowed me to dive deep into areas that directly fuel my game development interests. I've strategically chosen specialized courses like AI for Videogames, Real-Time Graphics Programming, Online Game Design and Networking, etc. This academic foundation, combined with my constant curiosity about these topics, ensures I approach game development challenges with both theoretical knowledge and practical skills and theoretical knowledge.  
   
 - [ ] Email: adavide8@gmail.com
 - [ ] Discord: mayDave
